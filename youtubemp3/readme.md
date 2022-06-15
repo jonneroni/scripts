@@ -1,5 +1,9 @@
 # Youtube to MP3 Python script
 
+## Installation
+
+Install the required packages listed in requirements.txt
+
 ## Usage
 
 1. Copy the youtube URL
