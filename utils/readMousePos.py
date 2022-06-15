@@ -1,3 +1,9 @@
+
+"""Open a console terminal showing cursor position
+   Pressing Enter will copy the current position to clipboard
+   Ctrl+C will exit the program
+"""
+
 #! python3
 import os
 import keyboard

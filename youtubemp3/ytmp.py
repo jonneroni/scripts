@@ -1,3 +1,8 @@
+"""Download youtube video as mp3
+    Run script after copying a video url to clipboard
+"""
+
+
 import win32clipboard
 import yt_dlp as yt
 
